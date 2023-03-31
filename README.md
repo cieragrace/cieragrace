@@ -1,4 +1,3 @@
-[![MasterHead]([your image link](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyhhz9fVeJLjCfdYxfCQ7i1S48KEI3js9qN_jyrPTuGXLB4L-7yT0kkC8jjeDkOZcSQ18&usqp=CAU))]([your GitHub link](https://github.com/cieragrace))
 
 
 ![Ciera's GitHub stats](https://github-readme-stats.vercel.app/api?username=cieragrace&show_icons=true&theme=transparent)
