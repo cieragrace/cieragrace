@@ -1,3 +1,6 @@
+<a href="https://github.com/cieragrace/github-profile-trophy">
+  <img center="left" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=cieragrace&theme=onedark)](https://github.com/cieragrace/github-profile-trophy)
 
@@ -8,8 +11,6 @@
   <img align="left" src="[https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat](http://github-readme-streak-stats.herokuapp.com?user=cieragrace&theme=tokyonight-duo&mode=weekly)" />
 </a>
 
-![Ciera's GitHub stats](https://github-readme-stats.vercel.app/api?username=cieragrace&show_icons=true&theme=transparent)
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=cieragrace&theme=tokyonight-duo&mode=weekly)](https://git.io/streak-stats)
 
 <!--
 **cieragrace/cieragrace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
