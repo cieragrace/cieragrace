@@ -1,6 +1,3 @@
-<a href="https://github.com/cieragrace/github-profile-trophy">
-  <img center="left" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
-</a>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=cieragrace&theme=onedark)](https://github.com/cieragrace/github-profile-trophy)
 
