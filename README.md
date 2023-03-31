@@ -1,6 +1,8 @@
 ### Hi there 👋
 
 ![Ciera's GitHub stats](https://github-readme-stats.vercel.app/api?username=cieragrace&show_icons=true&theme=transparent)
+[![trophy](https://github-profile-trophy.vercel.app/?username=cieragrace&theme=onedark)](https://github.com/cieragrace/github-profile-trophy)
+
 <!--
 **cieragrace/cieragrace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
