@@ -1,7 +1,14 @@
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=cieragrace&theme=onedark)](https://github.com/cieragrace/github-profile-trophy)
+
+<a href="https://github.com/cieragrace/github-readme-stats">
+  <img align="left" src="[https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats](https://github-readme-stats.vercel.app/api?username=cieragrace&show_icons=true&theme=transparent)" />
+</a>
+<a href="https://github.com/cieragrace/streak-stats">
+  <img align="left" src="[https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat](http://github-readme-streak-stats.herokuapp.com?user=cieragrace&theme=tokyonight-duo&mode=weekly)" />
+</a>
 
 ![Ciera's GitHub stats](https://github-readme-stats.vercel.app/api?username=cieragrace&show_icons=true&theme=transparent)
-[![trophy](https://github-profile-trophy.vercel.app/?username=cieragrace&theme=onedark)](https://github.com/cieragrace/github-profile-trophy)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=cieragrace&theme=tokyonight-duo&mode=weekly)](https://git.io/streak-stats)
 
 <!--
