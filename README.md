@@ -1,9 +1,10 @@
 ### Hi there 👋
 
+![Ciera's GitHub stats](https://github-readme-stats.vercel.app/api?username=cieragrace&show_icons=true&theme=transparent)
 <!--
 **cieragrace/cieragrace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-![Ciera's GitHub stats](https://github-readme-stats.vercel.app/api?username=cieragrace&show_icons=true&theme=transparent)
+
 
 Here are some ideas to get you started:
 
