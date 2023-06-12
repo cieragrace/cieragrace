@@ -3,6 +3,8 @@ under construction
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=cieragrace&theme=onedark)](https://github.com/cieragrace/github-profile-trophy)
 
+-I am currently working on re-working my Ink Hntr App as well as spicing up my github profile sorry I is a bit drab at the moment
+- 😄 Pronouns: She/Her
 
 <!--
 **cieragrace/cieragrace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
