@@ -3,7 +3,6 @@ under construction
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=cieragrace&theme=onedark)](https://github.com/cieragrace/github-profile-trophy)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=cieragrace&theme=tokyonight-duo)](https://git.io/streak-stats)
 ![Ciera's GitHub stats](https://github-readme-stats.vercel.app/api?username=cieragrace&theme=tokyonight&show_icons=true)
 
 <!--
